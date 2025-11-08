@@ -1,0 +1,68 @@
+# =========================
+# Node.js
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# =========================
+# Environment Files
+# =========================
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# =========================
+# Logs
+# =========================
+logs
+*.log
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# =========================
+# Build / Output
+# =========================
+dist/
+build/
+tmp/
+temp/
+.out/
+*.tsbuildinfo
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# =========================
+# Misc
+# =========================
+coverage/
+*.tgz
+*.env.test.local
+*.env.production.local
+
+# =========================
+# MongoDB / Database
+# =========================
+dump/
+*.bak
