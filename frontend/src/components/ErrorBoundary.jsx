@@ -20,7 +20,7 @@ class ErrorBoundary extends Component {
         <div className="min-h-screen flex items-center justify-center bg-gray-50">
           <div className="text-center p-8 bg-white rounded-xl shadow-lg max-w-md">
             <div className="text-6xl mb-4">😕</div>
-            <h2 className="text-2xl font-bold text-gray-800 mb-2">Something went wrong</h2>
+            <h2 className="text-2xl font-bold text-gray-800 mb-2">Something is went wrong</h2>
             <p className="text-gray-600 mb-6">
               We're sorry, but something unexpected happened. Please try refreshing the page.
             </p>
